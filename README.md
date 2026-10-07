@@ -71,5 +71,5 @@ The diagram shows the intended continuity path at a high level. It does not spec
 
 ## References
 
-- [Dien Quang smart lighting solutions](https://b2b.dienquang.com/products/giai-phap-chieu-sang-thong-minh-toan-dien-dien-quang) — vendor background. The beez-FM integration and deployment architecture above are the project author's account.
+- [Dien Quang smart lighting solutions](https://b2b.dienquang.com/products/giai-phap-chieu-sang-thong-minh-toan-dien-dien-quang) — vendor background. The beez-FM integration and deployment architecture above are my account.
 - [GitHub: create a repository for the authenticated user](https://docs.github.com/en/rest/repos/repos#create-a-repository-for-the-authenticated-user) — publication administration reference, checked 10 September 2026; API version 2022-11-28.
